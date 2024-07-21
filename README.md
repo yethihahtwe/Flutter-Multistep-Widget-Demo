@@ -1,3 +1,3 @@
-# flutter_multistep_form_demo
+# Flutter Multistep Widget Demo
 
-A new Flutter project.
+Creating a multi-step widget in Flutter. Suitable for large data-collection projects with long lists of questionnaires especially for the users with mobile devices.
